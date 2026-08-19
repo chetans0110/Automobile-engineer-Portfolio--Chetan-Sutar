@@ -177,7 +177,7 @@ const projects = {
         <div class="project-workflow">
 
             <div class="workflow-item">
-                <span>01</span>
+                <span>1.</span>
                 <strong>Concept</strong>
                 <small>
                     Suspension energy recovery concept
@@ -185,7 +185,7 @@ const projects = {
             </div>
 
             <div class="workflow-item">
-                <span>02</span>
+                <span>2.</span>
                 <strong>CAD</strong>
                 <small>
                     Mechanical component and assembly modeling
@@ -193,7 +193,7 @@ const projects = {
             </div>
 
             <div class="workflow-item">
-                <span>03</span>
+                <span>3.</span>
                 <strong>FEMM</strong>
                 <small>
                     Electromagnetic analysis
@@ -201,7 +201,7 @@ const projects = {
             </div>
 
             <div class="workflow-item">
-                <span>04</span>
+                <span>4.</span>
                 <strong>Simulation</strong>
                 <small>
                     MATLAB / Simulink / Simscape modeling
@@ -209,7 +209,7 @@ const projects = {
             </div>
 
             <div class="workflow-item">
-                <span>05</span>
+                <span>5.</span>
                 <strong>Testing</strong>
                 <small>
                     Prototype and experimental evaluation
@@ -288,7 +288,7 @@ const projects = {
         <div class="project-workflow">
 
             <div class="workflow-item">
-                <span>01</span>
+                <span>1.</span>
                 <strong>Concept</strong>
                 <small>
                     Side-stand monitoring concept
@@ -297,7 +297,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>02</span>
+                <span>2.</span>
                 <strong>Mechanism</strong>
                 <small>
                     Mechanical mechanism development
@@ -306,7 +306,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>03</span>
+                <span>3.</span>
                 <strong>CAD</strong>
                 <small>
                     Component and assembly modeling
@@ -315,7 +315,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>04</span>
+                <span>4.</span>
                 <strong>Evaluation</strong>
                 <small>
                     Mechanism evaluation
@@ -324,7 +324,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>05</span>
+                <span>5.</span>
                 <strong>Prototype</strong>
                 <small>
                     Prototype development
@@ -390,7 +390,7 @@ const projects = {
         <div class="project-workflow">
 
             <div class="workflow-item">
-                <span>01</span>
+                <span>1.</span>
                 <strong>RFID</strong>
                 <small>
                     Detects the presented RFID tag
@@ -399,7 +399,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>02</span>
+                <span>2.</span>
                 <strong>Arduino</strong>
                 <small>
                     Processes identification data
@@ -408,7 +408,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>03</span>
+                <span>3.</span>
                 <strong>Authentication</strong>
                 <small>
                     Evaluates authorization status
@@ -417,7 +417,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>04</span>
+                <span>4.</span>
                 <strong>Relay Control</strong>
                 <small>
                     Controls the vehicle-operation circuit
@@ -426,7 +426,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>05</span>
+                <span>5.</span>
                 <strong>Immobilization</strong>
                 <small>
                     Prevents unauthorized operation
@@ -514,7 +514,7 @@ const projects = {
         <div class="project-workflow">
 
             <div class="workflow-item">
-                <span>01</span>
+                <span>1.</span>
                 <strong>Component Design</strong>
                 <small>
                     Mechanical component modeling
@@ -523,7 +523,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>02</span>
+                <span>2.</span>
                 <strong>Assembly</strong>
                 <small>
                     Multi-component assembly development
@@ -532,7 +532,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>03</span>
+                <span>3.</span>
                 <strong>Dimensional Control</strong>
                 <small>
                     Dimensions and design accuracy
@@ -541,7 +541,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>04</span>
+                <span>4.</span>
                 <strong>Engineering Drawing</strong>
                 <small>
                     Technical drawing and documentation
@@ -550,7 +550,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>05</span>
+                <span>5.</span>
                 <strong>Visualization</strong>
                 <small>
                     3D engineering representation
@@ -652,7 +652,7 @@ const projects = {
         <div class="project-workflow">
 
             <div class="workflow-item">
-                <span>01</span>
+                <span>1.</span>
                 <strong>Geometry</strong>
                 <small>
                     Model preparation
@@ -661,7 +661,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>02</span>
+                <span>2.</span>
                 <strong>Material</strong>
                 <small>
                     Material assignment
@@ -670,7 +670,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>03</span>
+                <span>3.</span>
                 <strong>Boundary Conditions</strong>
                 <small>
                     Supports and constraints
@@ -679,7 +679,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>04</span>
+                <span>4.</span>
                 <strong>Loading & Mesh</strong>
                 <small>
                     Applied loading and mesh generation
@@ -688,7 +688,7 @@ const projects = {
 
 
             <div class="workflow-item">
-                <span>05</span>
+                <span>5.</span>
                 <strong>Post-processing</strong>
                 <small>
                     Results and structural response
@@ -1108,6 +1108,30 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
             }, 250);
+
+        });
+
+    });
+
+});
+
+/* =====================================================
+   PROJECT CARD CLICK
+===================================================== */
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    const projectCards =
+        document.querySelectorAll(".project-card[data-project]");
+
+    projectCards.forEach(function (card) {
+
+        card.addEventListener("click", function () {
+
+            const projectName =
+                this.getAttribute("data-project");
+
+            openProject(projectName);
 
         });
 
