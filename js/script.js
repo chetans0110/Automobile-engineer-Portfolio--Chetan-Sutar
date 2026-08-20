@@ -617,6 +617,13 @@ const projects = {
             <p>4 Cylinder Engine Assembly</p>
         </div>
 
+        <div class="simulation-slide">
+            <video autoplay muted loop playsinline>
+                <source src="assets/videos/CATIA/motor-blower.mp4" type="video/mp4">
+            </video>
+            <p>Motor Blower Assembly</p>
+        </div>
+
     </div>
 </div>
 
